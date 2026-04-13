@@ -19,8 +19,11 @@ let package = Package(
     targets: [
         .target(
             name: "SpadesLib",
-            path: "Spades",
-            exclude: ["SpadesApp.swift"]
+            path: "Spades/Spades",
+            exclude: [
+                "SpadesApp.swift",
+                "Assets.xcassets"
+            ]
         )
     ]
 )
