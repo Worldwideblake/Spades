@@ -1,0 +1,3 @@
+module SpadesLib {
+    header "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/include/SpadesLib-Swift.h"
+}

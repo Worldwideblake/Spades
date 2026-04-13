@@ -1,0 +1,159 @@
+{
+  "": {
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/master.swiftdeps"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Engine/BotAI.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BotAI.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BotAI.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BotAI~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BotAI.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BotAI.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Engine/DeckManager.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/DeckManager.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/DeckManager.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/DeckManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/DeckManager.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/DeckManager.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Engine/ScoringEngine.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoringEngine.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoringEngine.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoringEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoringEngine.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoringEngine.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Engine/SpadesGameEngine.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/SpadesGameEngine.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/SpadesGameEngine.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/SpadesGameEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/SpadesGameEngine.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/SpadesGameEngine.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Engine/TrickEvaluator.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickEvaluator.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickEvaluator.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickEvaluator~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickEvaluator.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickEvaluator.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Card.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Card.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Card.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Card~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Card.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Card.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/GameConstants.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GameConstants.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GameConstants.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GameConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GameConstants.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GameConstants.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/GamePhase.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GamePhase.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GamePhase.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GamePhase~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GamePhase.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/GamePhase.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Player.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Player.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Player.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Player~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Player.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Player.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Rank.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Rank.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Rank.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Rank~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Rank.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Rank.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Suit.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Suit.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Suit.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Suit~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Suit.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Suit.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Team.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Team.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Team.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Team~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Team.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Team.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Models/Trick.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Trick.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Trick.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Trick~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Trick.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/Trick.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Theme/AppTheme.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/AppTheme.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/AppTheme.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/AppTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/AppTheme.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/AppTheme.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/BiddingOverlayView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BiddingOverlayView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BiddingOverlayView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BiddingOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BiddingOverlayView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/BiddingOverlayView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/CardView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/CardView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/CardView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/CardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/CardView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/CardView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/ContentView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ContentView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ContentView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ContentView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/OpponentHandView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/OpponentHandView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/OpponentHandView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/OpponentHandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/OpponentHandView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/OpponentHandView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/PlayerBadgeView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerBadgeView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerBadgeView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerBadgeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerBadgeView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerBadgeView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/PlayerHandView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerHandView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerHandView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerHandView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerHandView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/PlayerHandView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/ScoreboardOverlayView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoreboardOverlayView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoreboardOverlayView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoreboardOverlayView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoreboardOverlayView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/ScoreboardOverlayView.dia"
+  },
+  "/Users/blakemills/Documents/Spades/Spades/Spades/Views/TrickAreaView.swift": {
+    "dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickAreaView.d",
+    "object": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickAreaView.swift.o",
+    "swiftmodule": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickAreaView~partial.swiftmodule",
+    "swift-dependencies": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickAreaView.swiftdeps",
+    "diagnostics": "/Users/blakemills/Documents/Spades/.build/arm64-apple-macosx/debug/SpadesLib.build/TrickAreaView.dia"
+  }
+}
